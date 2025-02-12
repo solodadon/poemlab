@@ -1,34 +1,27 @@
 body {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', sans-serif;
     background-color: rgb(20, 123, 80);
 }
 
 .poem {
-    margin: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+
     padding: 70px;
     background-color: rgb(166, 42, 194);
     border: 1px solid #9daf4c;
+    text-align: center;
 }
 
 .author {
-    margin: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    padding: 70px;
+  
+    text-align: center;
 }
 
 .title {
-    margin: 20px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    padding: 70px;
+  
+    text-align: center;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
